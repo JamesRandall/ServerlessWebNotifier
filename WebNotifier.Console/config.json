@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Independent PS5 Stock Checker",
+    "uri": "https://www.independent.co.uk/games/ps5-stock-uk-restock-latest-b2048401.html",
+    "actions": [
+      {
+        "xPathSelector": "//div[@items]",
+        "detector": "Difference"
+      }
+    ]
+  }
+]
