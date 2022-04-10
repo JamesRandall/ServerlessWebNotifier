@@ -1,4 +1,4 @@
-# Web Notifier
+# Serverless Web Notifier
 
 This is a pretty simple serverless change detector for websites that will regularly check a web page and see if it has been updated and if so send you a text message. Useful for, you know, getting your hands on things like a PS5! Mostly written just for fun.
 
